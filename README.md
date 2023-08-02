@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Mathew Santos</h1>
+<h2>Hi 👋, I'm Mathew Santos</h2>
 <h3>Software Engineer Fellow at The Marcy Lab School</h3>
 
 - 🔭 I’m currently working on [Practice Exam for the Breastfeeding Resource Center with Prometheus](https://github.com/Team-BRC)
