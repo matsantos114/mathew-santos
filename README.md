@@ -1,7 +1,7 @@
 <h2>Mathew Santos</h2>
 <h3>Software Engineer Fellow at The Marcy Lab School</h3>
 
-- 🔭 I’m currently working on [Practice Exam for the Breastfeeding Resource Center with Prometheus](https://github.com/Team-BRC)
+- 🔭 I’m currently working at Palo Alto Networks
 
 - 🌱 I’m currently learning **TypeScript and Redux**
 
