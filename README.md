@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@matsantos114](https://medium.com/@matsantos114)
 
-- 💬 Ask me about **React, JavaScript and TypeScript**
+- 💬 Ask me about **React and TypeScript**
 
 - 📫 How to reach me **matsantos114@gmail.com**
 
